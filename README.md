@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mlakkapr
-- 👀 I’m interested in ...NG / NodsJS / Auth0 / CSP / Okta / MFA / QRCodes / Integrations / Coaching 
-- 🌱 I’m currently learning ...Okta / SAFe DevOps Cert 
-- 💞️ I’m looking to collaborate on ... NG ? NodeJS Business Apps
+- 👀 I’m interested in ...Flutter / NG / NodsJS / Auth0 / CSP / Okta / MFA / QRCodes / Integrations / Coaching 
+- 🌱 I’m currently learning ...Flutter / Okta / SAFe DevOps Cert 
+- 💞️ I’m looking to collaborate on ... Flutter / NG / NodeJS Business Apps
 - 📫 How to reach me ... please message me on GitHub.
 
 <!---
